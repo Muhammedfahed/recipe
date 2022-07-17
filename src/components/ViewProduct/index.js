@@ -57,7 +57,7 @@ function ViewProduct() {
       weight: '100gm',
       code: 'PRO-57575',
       price: 35,
-      image: 'https://cdn-icons.flaticon.com/png/512/4780/premium/4780064.png?token=exp=1658049030~hmac=89e882ee945cd09464d81be740afa10b',
+      image: 'https://cdn1.vectorstock.com/i/thumb-large/99/35/masala-icon-cartoon-style-vector-28739935.jpg',
     },
   ];
 
